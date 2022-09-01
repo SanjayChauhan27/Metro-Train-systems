@@ -4,8 +4,7 @@
 Metro trains are widely popular worldwide, and their network is getting wider at a sheer pace in most of countries. Developed countries such as European and North American countries started their developmental phase in early 1900s on the other hand developing countries such as China and India started late but still with the time they developed their systems mammoth which are capable enough to get into play with the ones which are in western part of the world. This project comes with all those questions, analysis has been performed to give answers to all related questions and they are presented with brief visualizations.
 
 ##  About the project
-This project has been done after analyzing the raw data regarding the global metro systems. The analysis report contains two phases first are Data processing and the other is Analysis and visualization phase. The project contains eight summaries with different statistics, comparisons, and rankings.
-
+This project has been done after analyzing the raw data regarding the global metro systems. The analysis report contains two phases first are Data processing and the other is Analysis and visualization phase.
 ## Data 
  Raw [Data](https://www.kaggle.com/datasets/timmofeyy/-world-metro) regarding metro systems all over the globe.
 
